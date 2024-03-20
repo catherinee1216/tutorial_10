@@ -2,10 +2,10 @@
 title: "Datasheet for Major Crime Indicators"
 author: 
   - Catherine Punnoose
-thanks: "Code and data are available at: https://github.com/catherinee1216/tutorial_10.git."
+thanks: "Code and data are available at: https://github.com/catherinee1216/tutorial_10.git.Thank you Mingjia (Betty) Chen for the wonderful feedback."
 date: today
 date-format: long
-abstract: "This datasheet is used for the dataset, Major Crime Indicators. The dataset is provided by Open Data Toronto."
+abstract: "This datasheet is used for the dataset, Major Crime Indicators. The dataset is provided by Open Data Toronto [@OpenDataTO].Open source statistically programming language R [@citeR] and questions from @gebru2021datasheets was used for the datasheet.The dataset was selected as inspriation from a previous paper I have written for a tutorial for the course INF312, where I completed a short analysis on the dataset."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -34,7 +34,7 @@ Extract of the questions from @gebru2021datasheets.
 3. *Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set? If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (for example, geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (for example, to cover a more diverse range of instances, because instances were withheld or unavailable).*
 	- The dataset does not contain all possible instances. Occurrences that have been deemed unfounded according to Statistics Canada are not used in the dataset. 
 4. *What data does each instance consist of? "Raw" data (for example, unprocessed text or images) or features? In either case, please provide a description.*
-	- The data consists of a CSV file containing a table with all relevant data to Major Crime Indicators. 
+	- The data consists of a CSV file containing a table with all relevant data to Major Crime Indicators. Variables are organized or cleaned in the dataset in a table format. Variables for gender is organized as "1" and "2", rather than "female" and "male".
 5. *Is there a label or target associated with each instance? If so, please provide a description.*
 	- N/A
 6. *Is any information missing from individual instances? If so, please provide a description, explaining why this information is missing (for example, because it was unavailable). This does not include intentionally removed information, but might include, for example, redacted text.*
