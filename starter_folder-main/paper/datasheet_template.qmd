@@ -2,7 +2,7 @@
 title: "Datasheet for Major Crime Indicators"
 author: 
   - Catherine Punnoose
-thanks: "Code and data are available at: https://github.com/catherinee1216/tutorial_10.git. Thank you Betty Chen for the wonderful feedback."
+thanks: "Code and data are available at: https://github.com/catherinee1216/tutorial_10.git."
 date: today
 date-format: long
 abstract: "This datasheet is used for the dataset, Major Crime Indicators. The dataset is provided by Open Data Toronto."
