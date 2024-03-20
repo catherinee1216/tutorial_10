@@ -3,7 +3,7 @@ title: "My title"
 subtitle: "My subtitle if needed"
 author: 
   - Catherine Punnoose
-thanks: "Thank you Betty Chen for the fantastic feedback. Code and data are available at: LINK."
+thanks: "Thank you Betty Chen for the fantastic feedback. Code and data are available at: https://github.com/catherinee1216/tutorial_10.git."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
